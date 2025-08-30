@@ -1,15 +1,27 @@
-# fooddelivery
-Simple food delivery mobile app built with Flutter & Dart, including multi-category menus, product customization, cart management, and theme switching.
+# 🍔 Food Delivery App
 
-## Getting Started
+A modern and interactive **food delivery application** built with **Flutter**.  
+Users can browse different food categories, view product details, and manage their orders seamlessly.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Features ✨
+- **Food Categories:** Burgers, Drinks, Desserts, Salads, and Side Dishes.  
+- **Product Details:** Tap on any product to see details and customize your order.  
+- **Shopping Cart:** Add products to the cart, increase/decrease quantity.  
+- **Dark & Light Mode:** Switch between dark and light themes for better user experience.  
+- **Interactive UI:** Smooth navigation and responsive design.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies & Tools 🛠
+- Flutter  
+- Dart  
+- State Management (Provider / setState)  
+- Local Storage  
+
+---
+
+## About this Project 💡
+This project demonstrates **Flutter UI design, state management, and interactive features** for a fully functional food delivery app.  
+It’s perfect for beginners and intermediate Flutter developers looking to improve their skills in building real-world applications.
