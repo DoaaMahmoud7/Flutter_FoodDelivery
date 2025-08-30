@@ -1,6 +1,5 @@
 # fooddelivery
-
-A new Flutter project.
+Simple food delivery mobile app built with Flutter & Dart, including multi-category menus, product customization, cart management, and theme switching.
 
 ## Getting Started
 
