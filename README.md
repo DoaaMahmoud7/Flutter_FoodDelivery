@@ -25,10 +25,3 @@ Users can browse different food categories, view product details, and manage the
 ## About this Project 💡
 This project demonstrates **Flutter UI design, state management, and interactive features** for a fully functional food delivery app.  
 It’s perfect for beginners and intermediate Flutter developers looking to improve their skills in building real-world applications.
-
----
-
-## Getting Started 🚀
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/DoaaMahmoud7/Flutter_FoodDelivery.git
